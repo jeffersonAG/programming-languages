@@ -1,0 +1,25 @@
+* {
+    background-color: black;
+    
+}
+body{
+    border: 2px solid crimson;
+    padding: 10px;
+    margin: 0;
+}
+
+html{
+    height: 100%;
+}
+
+h1 {
+    color: crimson;
+}
+
+h2 {
+    color: crimson;
+}
+
+h1, h2 {
+    text-align: center;
+}
